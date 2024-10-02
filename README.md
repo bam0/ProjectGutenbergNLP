@@ -1,2 +1,3 @@
 # ProjectGutenbergNLP
-Classifying Literary Genres Using Machine Learning and NLP Techniques
+
+This project leverages Natural Language Processing (NLP) techniques to analyze and classify a selection of open-source novels from Project Gutenberg, focusing on word frequency, text complexity, and sentiment analysis. The analysis centers on 100 popular novels from four genres - adventure, fantasy, horror, and humor - processed through web scraping to extract and clean the data for preliminary exploration. Utilizing Python libraries such as TextBlob, NLTK, and pandas, the project conducts a comprehensive data analysis, including exploratory data analysis (EDA) and machine learning modeling (logistic regression, decision treesm K-means clustering). Ultimately, the findings intend to contribute to more effective recommendation systems within the publishing industry.
